@@ -1,2 +1,2 @@
-Adroid studio-Arduino bluettoh bağlantısı
+Adroid studio-Arduino bluettoh bağlantısı.
 Texttospeach özelliği kullanımı
