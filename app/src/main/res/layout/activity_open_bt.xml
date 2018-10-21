@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.project.wecycle.OpenBTActivity">
+
+    <Button
+        android:background="@drawable/back"
+        android:textColor="#fff"
+        android:id="@+id/btnOpenBT"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Bluetooth Açıldı."
+        android:textSize="25sp"
+        />
+</LinearLayout>
